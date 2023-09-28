@@ -30,7 +30,7 @@ Kinetic screenshares for multiple strings in live processes.
 | **DPS -** | ``[ModifiedExt, .exeExec]``
 | **Explorer -** | ``[Generic, DataStream]`` |
 | **DiagTrack -** | ``[ModifiedExt]`` |
-| **Java Instance -** | ``[Generic, Macro] `` |
+| **Java Instance -** | ``[Generic, Macro]`` |
 | **Csrss -** | ``[DLL]`` |
 
 ### ``[Generic]`` 🌳
