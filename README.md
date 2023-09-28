@@ -5,7 +5,7 @@ An open source **Minecraft Java 1.12.2+** Scanner that automates multiple proces
 
 #### ⚠️ Although however this can find most mods, clients, injections, etc, we do not recommend relying fully on this tool as it can't check for everything. ⚠️
 
-**Type(s) of Detections and Features:**
+### **Type(s) of Detections and Features:**
 
 - 🔍 **Generic Detection:** Implements Generic Detection and is able to find blatant mod clients.
 - 🧵 **String Detection:** Implements String Detection to be able to find clients such as Meteor, Impact, etc.
