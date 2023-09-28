@@ -16,7 +16,7 @@ An open source **Minecraft Java 1.12.2+** Scanner that automates multiple proces
 - 💵 **Free**: Our software is free to use and is used to catch hackers in screenshares.
 
 ## What does it screenshare for?
-### Live Processes
+### Live Processes 🔴
 Technetium screenshares for multiple strings in live processes.
 
 **Technetium can screenshare for freely with *generic detection:***
@@ -26,4 +26,18 @@ Technetium screenshares for multiple strings in live processes.
 | **PcaSvc -** | ``[PcaClient, appcompact, PcaExtended, PcaWin11]`` |
 | **DcomLaunch -** | ``[Doomsday]`` |
 | **DPS -** | ``[ModifiedExt, .exeExec]``
-| **Explorer** | ``Can be found in /lib/findExplorerStrings.py`` |
+| **Explorer -** | ``[Generic, DataStream]`` |
+| **DiagTrack -** | ``[ModifiedExt]`` |
+| **Java Instance -** | ``[Generic, Macro] `` |
+| **Csrss -** | ``[DLL]`` |
+
+### Mod Analysis ⭐️
+Technetium uses Index Mod Analysis logic to look for mods that may be malicious.
+- **Compares regular mods to malicious mods.**
+- **Looks in strings for logic.**
+
+### Macro Detection 🖱️
+Technetium uses ``[Generic]`` detection to look for macros.
+- **Looks for all known macros that have been logged in public guides.**
+
+Technetium does *NOT* look for on-board memory macros.
