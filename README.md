@@ -1,5 +1,5 @@
 
-# Technetium - The Best 1.12.2+ Tool
+# Kinetic - The Best 1.12.2+ Tool
 
 A **Minecraft Java 1.12.2+** Scanner that automates multiple processes in a screenshare.
 
@@ -19,9 +19,9 @@ A **Minecraft Java 1.12.2+** Scanner that automates multiple processes in a scre
 
 ## What does it screenshare for?
 ### Live Processes 🔴
-Technetium screenshares for multiple strings in live processes.
+Kinetic screenshares for multiple strings in live processes.
 
-**Technetium can screenshare for freely with *generic detection:***
+**Kinetic can screenshare for freely with *generic detection:***
 
 | Services/Programs: | Info |
 | - | - |
@@ -34,21 +34,21 @@ Technetium screenshares for multiple strings in live processes.
 | **Csrss -** | ``[DLL]`` |
 
 ### ``[Generic]`` 🌳
-Generic detections are easily detected by Technetium.
+Generic detections are easily detected by Kinetic.
 
 ### Mod Analysis ⭐️
-Technetium uses Index Mod Analysis logic to look for mods that may be malicious.
+Kinetic uses Index Mod Analysis logic to look for mods that may be malicious.
 - **Compares regular mods to malicious mods.**
 - **Looks in strings for logic.**
 
 ### Macro Detection 🖱️
-Technetium uses ``[Generic]`` detection to look for macros.
+Kinetic uses ``[Generic]`` detection to look for macros.
 - **Looks for all known macros that have been logged in public guides.**
 
-**Technetium does *NOT* look for on-board memory macros.**
+**Kinetic does *NOT* look for on-board memory macros.**
 
 ### Known Strings 🧵
-Technetium is designed to catch most clients by looking for strings that relate to them.
+Kinetic is designed to catch most clients by looking for strings that relate to them.
 
 *and more!*
 
