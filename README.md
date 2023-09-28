@@ -1,7 +1,9 @@
 
 # Technetium - The Best 1.12.2+ Tool
 
-An open source **Minecraft Java 1.12.2+** Scanner that automates multiple processes in a screenshare.
+A **Minecraft Java 1.12.2+** Scanner that automates multiple processes in a screenshare.
+
+*This resource is not open sourced, for more information, join the [discord](https://discord.com).*
 
 ⚠️ **Although however this can find most mods, clients, injections, etc, we do not recommend relying fully on this tool as it can't check for everything.** ⚠️
 
@@ -31,6 +33,9 @@ Technetium screenshares for multiple strings in live processes.
 | **Java Instance -** | ``[Generic, Macro] `` |
 | **Csrss -** | ``[DLL]`` |
 
+### ``[Generic]`` 🌳
+Generic detections are easily detected by Technetium.
+
 ### Mod Analysis ⭐️
 Technetium uses Index Mod Analysis logic to look for mods that may be malicious.
 - **Compares regular mods to malicious mods.**
@@ -40,4 +45,12 @@ Technetium uses Index Mod Analysis logic to look for mods that may be malicious.
 Technetium uses ``[Generic]`` detection to look for macros.
 - **Looks for all known macros that have been logged in public guides.**
 
-Technetium does *NOT* look for on-board memory macros.
+**Technetium does *NOT* look for on-board memory macros.**
+
+### Known Strings 🧵
+Technetium is designed to catch most clients by looking for strings that relate to them.
+
+*and more!*
+
+## How to Download?
+Join the Discord Server, create a pin, and download the latest release!
