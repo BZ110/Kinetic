@@ -3,7 +3,7 @@
 
 An open source **Minecraft Java 1.12.2+** Scanner that automates multiple processes in a screenshare.
 
-#### ⚠️ Although however this can find most mods, clients, injections, etc, we do not recommend relying fully on this tool as it can't check for everything. ⚠️
+⚠️ **Although however this can find most mods, clients, injections, etc, we do not recommend relying fully on this tool as it can't check for everything.** ⚠️
 
 ### **Type(s) of Detections and Features:**
 
